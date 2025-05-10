@@ -1,0 +1,35 @@
+.p1{
+    column-count: 3;
+}
+
+.p2{
+    column-count: 4;
+}
+
+.p1,.p2{
+    column-rule: 1px solid lightblue;
+    column-gap: 40px;
+}
+
+img{
+    float: right;
+    margin-right: 20px;
+}
+
+*{
+    text-shadow: 2px 2px 5px grey;
+}
+
+.ol2{
+    list-style-type: upper-alpha;
+}
+
+.p2{
+    column-count: 4;
+    column-rule: 1px solid lightblue;
+    column-gap: 40px;
+}
+
+ol,ul{
+    font-size: 16px;
+}
